@@ -1,6 +1,6 @@
 👋 My name is Hoang Minh. Now, I am studying Data Science at Industrial University of Ho Chi Minh City.
 
-🌱 I'm interested in Artificial Intelligence. Besides, I have a passion for Web Developer as well.
+🌱 I'm interested in Artificial Intelligence. Besides, I also have a passion for Web Developer.
 
 🌠 Experiences:
   - Programming languages: C, Python.
