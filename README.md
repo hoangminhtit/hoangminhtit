@@ -4,7 +4,7 @@
 
 🌠 Experiences:
   - Programming languages: C, Python.
-  - Be albe to make a basic websites.
+  - Be able to make a basic websites.
     
 ✉️ Contact :
   - Email: 23.volehoangminh12a7.2023nht@gmail.com
