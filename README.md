@@ -1,7 +1,7 @@
 🌱 My name is Hoang Minh. Currently, I am studying **Data Science at the Industrial University of Ho Chi Minh City.**
 
 🌠 Experiences:
-  - Be able to make a basic websites.
+  - Be able to make a basic website.
     
 ✉️ You can contact with me throughout:
   - Email: **vlhminh3011@gmail.com**
