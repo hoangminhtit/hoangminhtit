@@ -1,7 +1,21 @@
 <a align="center" href="https://github.com/ngohongthong"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Github!%20I'm%20HoangMinh;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
-<h2 align="center" >Every small step brings you closer to your bigger goals.</h2>
+<!-- <h2 align="center">Every small step brings you closer to your bigger goals.</h2> -->
 
-🌱 I am a **Data Science student at the Industrial University of Ho Chi Minh City.**
+<table>
+  <tr>
+    <td valign="middle">
+      🌱 I am a <strong>Data Science student</strong> at the
+      <strong>Industrial University of Ho Chi Minh City</strong>.
+    </td>
+    <td>
+      <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy.gif"
+           height="220"
+           alt="a cute dog"/>
+    </td>
+  </tr>
+</table>
+
+
 
 
 ### 📚 Projects for Learning & Practice
@@ -34,7 +48,7 @@
 </div>
 --->
 ## Languages and Tools:
-<p align="left">
+<!-- <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="C language" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="C++ language" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" />
@@ -45,11 +59,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="50" width="50" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50" alt="React"/>
 
-</p>
+</p> -->
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1F425F?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Apache%20Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+
 
 <div align="center">
   </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtit&theme=tokyonight&langs_count=6&layout=compact&hide=tsql,html,pug,css" alt="Pine's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtit&theme=tokyonight&langs_count=6&layout=compact&hide=tsql,html,pug,css" alt="hoangminhtit's Github Stats">
   </br>
 </div>
 
