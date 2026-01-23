@@ -18,7 +18,7 @@
 
 
 
-### 📚 Projects for Learning & Practice
+<!-- ### 📚 Projects for Learning & Practice
 
 **🛠️ Software Projects**
 | Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
@@ -37,7 +37,7 @@
 |-------------------------------------|----------------------------------------|----------------------------------------------------|---------------------------------------------------------|
 |Object Detection                     |                                        |                                                    |[Repo](https://github.com/hoangminhtit/Object-Detection-Using-Yolo-Pretrained.git)|
 |LLMs Fine Tuning                     |Fine tune Qwen3 for a specific task     |                                                    |[Repo](https://github.com/hoangminhtit/Qwen3-Instruct-fine-tuning.git)|
-
+--->
 <!---
 # :footprints: My Steps
 
