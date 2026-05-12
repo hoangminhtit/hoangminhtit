@@ -84,27 +84,40 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-
+## GitHub Stats
 
 <div align="center">
-  </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtit&theme=tokyonight&langs_count=6&layout=compact&hide=tsql,html,pug,css" alt="hoangminhtit's Github Stats">
-  </br>
+<table>
+<tr>
+  <td align="center" colspan="2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangminhtit&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" width="90%" />
+    
+  </td>
+</tr>
+
+<tr>
+  <td align="center">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hoangminhtit&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
+  </td>
+
+  <td align="center">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hoangminhtit&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"/>
+  </td>
+</tr>
+</table>
 </div>
-
-## 📬 Contact Me
-
-- 📱 Phone:  
-- 💼 [LinkedIn]
-- 🌐 [Facebook]
-- ✉️ Gmail: 
-
 
 
 
 
 <!---
 🌱 My name is Hoang Minh. Currently, I am studying **Data Science at the Industrial University of Ho Chi Minh City.**
+
+## 📬 Contact Me
+
+- 📱 Phone:  
+- 💼 LinkedIn:
+- ✉️ Gmail: 
 
 🌠 Experiences:
   - Be able to make a basic website.
