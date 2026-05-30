@@ -1,65 +1,42 @@
-<a align="center" href="https://github.com/ngohongthong"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Github!%20I'm%20HoangMinh;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
-<!-- <h2 align="center">Every small step brings you closer to your bigger goals.</h2> -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;I'm+Hoang+Minh" alt="Typing SVG" />
+</div>
+
+---
+
+## 🙋‍♂️ About Me
 
 <table>
   <tr>
-    <td valign="middle">
-      🌱 I am a <strong>Data Science student</strong> at the
-      <strong>Industrial University of Ho Chi Minh City</strong>.
-    </td>
-    <td>
-      <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy.gif"
-           height="220"
-           alt="a cute dog"/>
-    </td>
+    <td valign="middle" width="70%">
+
+- 🌱 I am a **Data Science** student at the **Industrial University of Ho Chi Minh City**
+- 📚 Currently learning **AI Agents** and **AWS**
+- 💡 Interested in **Linear Algebra and AI Applications**
+
+  </td>
+  <td valign="middle" width="30%" align="center">
+    <img src="https://raw.githubusercontent.com/csenguyenminhphuc/csenguyenminhphuc/main/gif/giphy.gif" height="220" alt="a cute dog"/>
+  </td>
   </tr>
 </table>
 
+---
 
-
-
-<!-- ### 📚 Projects for Learning & Practice
-
-**🛠️ Software Projects**
-| Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
-|-------------------------------------|----------------------------------------|---------------------------------------------------|----------------------------------------------------------|
-
-
-**🧩 Data Engineering Projects**
-| Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
-|-------------------------------------|----------------------------------------|---------------------------------------------------|----------------------------------------------------------|
-
-
-
-
-**🤖 AI Projects**
-| Project Name                         | Description                            | Live / Demo                                       | Source Code                                             |
-|-------------------------------------|----------------------------------------|----------------------------------------------------|---------------------------------------------------------|
-|Object Detection                     |                                        |                                                    |[Repo](https://github.com/hoangminhtit/Object-Detection-Using-Yolo-Pretrained.git)|
-|LLMs Fine Tuning                     |Fine tune Qwen3 for a specific task     |                                                    |[Repo](https://github.com/hoangminhtit/Qwen3-Instruct-fine-tuning.git)|
---->
-<!---
-# :footprints: My Steps
+## 🤝 Connect with Me
 
 <div align="center">
-  </br>
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=ngohongthong1832004&theme=neon-palenight" alt = "Github Streak" >
-  </br>
-</div>
---->
-## Languages and Tools:
-<!-- <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="C language" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="C++ language" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" width="50" alt="Seaborn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="50" width="50" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50" alt="React"/>
 
-</p> -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=)](www.linkedin.com/in/vo-le-hoang-minh-6076822b3)
+[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjUyIDQyIDg4IDY2Ij48cGF0aCBmaWxsPSIjNDI4NWY0IiBkPSJNNTggMTA4aDE0Vjc0TDUyIDU5djQzYzAgMy4zMiAyLjY5IDYgNiA2Ii8+PHBhdGggZmlsbD0iIzM0YTg1MyIgZD0iTTEyMCAxMDhoMTRjMy4zMiAwIDYtMi42OSA2LTZWNTlsLTIwIDE1Ii8+PHBhdGggZmlsbD0iI2ZiYmMwNCIgZD0iTTEyMCA0OHYyNmwyMC0xNXYtOGMwLTcuNDItOC40Ny0xMS42NS0xNC40LTcuMiIvPjxwYXRoIGZpbGw9IiNlYTQzMzUiIGQ9Ik03MiA3NFY0OGwyNCAxOCAyNC0xOHYyNkw5NiA5MiIvPjxwYXRoIGZpbGw9IiNjNTIyMWYiIGQ9Ik01MiA1MXY4bDIwIDE1VjQ4bC01LjYtNC4yYy01Ljk0LTQuNDUtMTQuNC0uMjItMTQuNCA3LjIiLz48L3N2Zz4=)](mailto:hoangminhtit.workspace@gmail.com)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=hoangminhtit&label=Profile+Views&color=007ACC&style=for-the-badge)](https://github.com/hoangminhtit)
+
+</div>
+
+---
+
+##  🛠️ Languages and Tools:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -84,60 +61,27 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<table>
-<tr>
-  <td align="center" colspan="2">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangminhtit&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" width="90%" />
-    
-  </td>
-</tr>
 
-<tr>
-  <td align="center">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hoangminhtit&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
-  </td>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoangminhtit&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <td align="center">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hoangminhtit&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"/>
-  </td>
-</tr>
-</table>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hoangminhtit&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
+<br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hoangminhtit&theme=tokyonight&hide_border=true&background=1a1b26&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak" />
+</div>
+</div>
 
+---
 
-<!---
-🌱 My name is Hoang Minh. Currently, I am studying **Data Science at the Industrial University of Ho Chi Minh City.**
-
-## 📬 Contact Me
-
-- 📱 Phone:  
-- 💼 LinkedIn:
-- ✉️ Gmail: 
-
-🌠 Experiences:
-  - Be able to make a basic website.
-    
-✉️ You can contact with me throughout:
-  - Email: **vlhminh3011@gmail.com**
-
-## Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" alt="C language" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="C++ language" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" width="50" alt="Seaborn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL" />
-</p>
---->
-
-<!---
-hoangminhtit/hoangminhtit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <i>✨ "Every expert was once a beginner." — Keep learning, keep building! ✨</i>
+</div>
