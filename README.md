@@ -82,6 +82,16 @@
 
 ---
 
+### Personal Profile (@hoangminhtit)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hoangminhtit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hoangminhtit&theme=minimal&hide_border=true&color=7c3aed&line=06b6d4&point=1a1a1a" />
+  <img alt="Hoang Minh's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hoangminhtit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc" />
+</picture>
+
+---
+
 <div align="center">
   <i>✨ "Every expert was once a beginner." — Keep learning, keep building! ✨</i>
 </div>
